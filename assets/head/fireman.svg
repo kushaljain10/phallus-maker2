@@ -1,0 +1,8 @@
+<svg width="344" height="344" viewBox="0 0 344 344" fill="none" xmlns="http://www.w3.org/2000/svg"><g>
+<animateTransform attributeName="transform" type="translate" dur="0.4s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0 0;0 28;0 0" />
+<rect x="111.22" y="71.02" width="120.6" height="26.8" fill="#001D55"/>
+<path d="M111.22 71.0199C111.22 57.6988 122.019 46.8999 135.34 46.8999H207.7C221.021 46.8999 231.82 57.6988 231.82 71.0199V71.0199H111.22V71.0199Z" fill="#001D55"/>
+<rect x="97.8198" y="97.8198" width="147.4" height="10.72" fill="#001235"/>
+<rect x="163.48" y="33.5" width="16.08" height="37.52" fill="#001235"/>
+<path d="M146.06 60.3L171.855 41.54L197.65 60.3L186.93 97.82H156.78L146.06 60.3Z" fill="#C2FD52"/>
+</g></svg>

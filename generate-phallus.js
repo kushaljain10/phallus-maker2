@@ -1,11 +1,11 @@
 import fs from 'fs';
 
-export function generateBro(req, res) {
+export function generatePhallus(req, res) {
   const inputSVGs = [
-    './assets/dick/' + req.query.dick + '.svg',
-    './assets/head/' + req.query.head + '.svg',
-    './assets/eyewear/' + req.query.eyewear + '.svg',
-    './assets/face/' + req.query.face + '.svg'
+    './phallus_assets/dick/' + req.query.dick + '.svg',
+    './phallus_assets/head/' + req.query.head + '.svg',
+    './phallus_assets/eyewear/' + req.query.eyewear + '.svg',
+    './phallus_assets/face/' + req.query.face + '.svg'
   ];
 
   // Function to read SVG file contents
